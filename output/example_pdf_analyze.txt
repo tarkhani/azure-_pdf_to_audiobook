@@ -1,0 +1,515 @@
+Results of Recognize Entities Action:
+
+Entity: percentage
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 55
+
+Entity: Internet
+
+Category: Skill
+
+Confidence Score: 0.8
+
+Offset: 69
+
+Entity: mobile devices
+
+Category: Product
+
+Confidence Score: 0.82
+
+Offset: 139
+
+Entity: 5G
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 210
+
+Entity: vehicular networks
+
+Category: Skill
+
+Confidence Score: 0.58
+
+Offset: 315
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.94
+
+Offset: 383
+
+Entity: edge caching
+
+Category: Skill
+
+Confidence Score: 0.94
+
+Offset: 427
+
+Entity: data acquisition
+
+Category: Skill
+
+Confidence Score: 0.98
+
+Offset: 455
+
+Entity: caching
+
+Category: Skill
+
+Confidence Score: 0.99
+
+Offset: 548
+
+Entity: networks
+
+Category: Skill
+
+Confidence Score: 0.86
+
+Offset: 569
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.95
+
+Offset: 657
+
+Entity: storage resources
+
+Category: Skill
+
+Confidence Score: 0.78
+
+Offset: 753
+
+Entity: caching
+
+Category: Skill
+
+Confidence Score: 0.95
+
+Offset: 809
+
+Entity: investments
+
+Category: Skill
+
+Confidence Score: 0.92
+
+Offset: 872
+
+Entity: deployment
+
+Category: Skill
+
+Confidence Score: 0.92
+
+Offset: 900
+
+Entity: data
+
+Category: Skill
+
+Confidence Score: 0.8
+
+Offset: 1031
+
+Entity: quality
+
+Category: Skill
+
+Confidence Score: 0.52
+
+Offset: 1128
+
+Entity: service
+
+Category: Skill
+
+Confidence Score: 0.58
+
+Offset: 1139
+
+Entity: caching
+
+Category: Skill
+
+Confidence Score: 0.96
+
+Offset: 1173
+
+Entity: caching framework
+
+Category: Skill
+
+Confidence Score: 0.94
+
+Offset: 1211
+
+Entity: Internet services
+
+Category: Skill
+
+Confidence Score: 0.96
+
+Offset: 1318
+
+Entity: two
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 1359
+
+Entity: users
+
+Category: PersonType
+
+Confidence Score: 0.98
+
+Offset: 1372
+
+Entity: users
+
+Category: PersonType
+
+Confidence Score: 0.91
+
+Offset: 1379
+
+Entity: daily
+
+Category: DateTime
+
+Confidence Score: 0.8
+
+Offset: 1441
+
+Entity: one
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 1475
+
+Entity: predictable behavior
+
+Category: Skill
+
+Confidence Score: 0.84
+
+Offset: 1557
+
+Entity: first
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 1585
+
+Entity: users
+
+Category: PersonType
+
+Confidence Score: 0.91
+
+Offset: 1599
+
+Entity: data
+
+Category: Skill
+
+Confidence Score: 0.89
+
+Offset: 1631
+
+Entity: roadside
+
+Category: Location
+
+Confidence Score: 0.51
+
+Offset: 1639
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.79
+
+Offset: 1655
+
+Entity: requesters
+
+Category: PersonType
+
+Confidence Score: 0.78
+
+Offset: 1668
+
+Entity: proactive
+
+Category: Skill
+
+Confidence Score: 0.56
+
+Offset: 1748
+
+Entity: cache placement
+
+Category: Skill
+
+Confidence Score: 0.79
+
+Offset: 1758
+
+Entity: time prediction
+
+Category: Skill
+
+Confidence Score: 0.63
+
+Offset: 1863
+
+Entity: caching process
+
+Category: Skill
+
+Confidence Score: 0.81
+
+Offset: 1914
+
+Entity: second
+
+Category: Quantity
+
+Confidence Score: 0.8
+
+Offset: 1939
+
+Entity: users
+
+Category: PersonType
+
+Confidence Score: 0.9
+
+Offset: 1954
+
+Entity: mobile
+
+Category: Skill
+
+Confidence Score: 0.8
+
+Offset: 1983
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.75
+
+Offset: 2018
+
+Entity: cooperative caching
+
+Category: Skill
+
+Confidence Score: 0.99
+
+Offset: 2065
+
+Entity: content discovery module
+
+Category: Skill
+
+Confidence Score: 0.86
+
+Offset: 2140
+
+Entity: cache placement
+
+Category: Skill
+
+Confidence Score: 0.97
+
+Offset: 2171
+
+Entity: requester
+
+Category: PersonType
+
+Confidence Score: 0.83
+
+Offset: 2277
+
+Entity: caching
+
+Category: Skill
+
+Confidence Score: 0.98
+
+Offset: 2365
+
+Entity: cooperative caching
+
+Category: Skill
+
+Confidence Score: 0.82
+
+Offset: 2422
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.95
+
+Offset: 2616
+
+Entity: vehicles
+
+Category: Product
+
+Confidence Score: 0.87
+
+Offset: 2640
+
+Entity: trajectory prediction
+
+Category: Skill
+
+Confidence Score: 0.61
+
+Offset: 2650
+
+Entity: simulations
+
+Category: Skill
+
+Confidence Score: 0.88
+
+Offset: 2690
+
+Entity: caching
+
+Category: Skill
+
+Confidence Score: 0.96
+
+Offset: 2846
+
+Entity: prediction schemes
+
+Category: Skill
+
+Confidence Score: 0.9
+
+Offset: 2858
+
+Entity: VANETs
+
+Category: Product
+
+Confidence Score: 0.48
+
+Offset: 2880
+
+
+
+ Results of Recognize linked Entities Action:
+
+Entity: Abstraction
+
+URL: https://en.wikipedia.org/wiki/Abstraction
+
+Data Source: Wikipedia
+
+Entity matches:
+
+Entity match text: Abstract
+
+Confidence Score: 0.02
+
+Offset: 1
+
+Entity: Social media
+
+URL: https://en.wikipedia.org/wiki/Social_media
+
+Data Source: Wikipedia
+
+Entity matches:
+
+Entity match text: Social media
+
+Confidence Score: 0.11
+
+Offset: 10
+
+Entity: Internet traffic
+
+URL: https://en.wikipedia.org/wiki/Internet_traffic
+
+Data Source: Wikipedia
+
+Entity matches:
+
+Entity match text: Internet traffic
+
+Confidence Score: 0.8
+
+Offset: 69
+
+Entity: Vehicular ad-hoc network
+
+URL: https://en.wikipedia.org/wiki/Vehicular_ad-hoc_network
+
+Data Source: Wikipedia
+
+Entity matches:
+
+Entity match text: VANET
+
+Confidence Score: 0.88
+
+Offset: 1306
+
+Entity: Internet protocol suite
+
+URL: https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+Data Source: Wikipedia
+
+Entity matches:
+
+Entity match text: Internet services
+
+Confidence Score: 0.02
+
+Offset: 1318
+
+
+
+Results of Extract_KeyPhrases_result Action:
+
+Key Phrases: ['informed proactive cache placement decisions', 'low packet delivery ratio', 'travel time prediction scheme', 'Abstract Social media traffic', "vehicles' trajectory prediction scheme", 'cache placement module', 'cache hit ratio', 'informed caching decisions', 'many challenging issues', 'distant content providers', 'content discovery module', 'traffic offloading platform', 'remote backhaul servers', 'VANET-based Internet services', 'huge traffic load', 'other prominent caching', 'static roadside units', 'roadside parked vehicles', 'nearby caching nodes', 'cooperative caching solution', 'Internet traffic', 'prediction schemes', 'cache hits', 'backhaul links', 'edge caching', 'caching framework', 'caching process', 'highest percentage', 'mobile devices', '5G networks', 'vehicular networks', 'resourceful asset', 'dynamic nature', 'storage resources', 'large investments', 'wide deployment', 'high delay', 'two types', 'predictable behavior', 'one place', 'first type', 'second type', 'mobile nature', 'moving vehicles', 'request-forwarding process', 'search space', 'cooperation range', 'neighborhood scope', 'Extensive simulations', 'significant improvements', 'targeted objectives', 'daily routine', 'data acquisition', 'turn', 'quality', 'instability', 'challenge', 'consideration', 'thesis', 'users', 'order', 'requesters', 'availability', 'replicas', 'context', 'VANETs', 'former', 'approaches']
+
+------------------------------------------
